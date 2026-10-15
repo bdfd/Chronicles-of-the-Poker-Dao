@@ -65,11 +65,17 @@
 ## 第十卷：牌道百科
 
 * [卷首：术语索引](book/part-10/README.md)
-* [第十卷 第一章：牌修（对应第一卷第一章）](book/part-10/01-pai-xiu.md)
-* [第十卷 第二章：灵石（对应第二卷第一章）](book/part-10/02-ling-shi.md)
-* [第十卷 第三章：心魔（对应第六卷第一章）](book/part-10/03-xin-mo.md)
-* [第十卷 第四章：牌道（对应第九卷第一章）](book/part-10/04-pai-dao.md)
-* [第十卷 第五章：道途成就](book/part-10/05-achievements.md)
+* [第十卷 第一章：第一卷德州扑克词汇表](book/part-10/01-volume-1-glossary.md)
+* [第十卷 第二章：第二卷德州扑克词汇表](book/part-10/02-volume-2-glossary.md)
+* [第十卷 第三章：第三卷德州扑克词汇表](book/part-10/03-volume-3-glossary.md)
+* [第十卷 第四章：第四卷德州扑克词汇表](book/part-10/04-volume-4-glossary.md)
+* [第十卷 第五章：第五卷德州扑克词汇表](book/part-10/05-volume-5-glossary.md)
+* [第十卷 第六章：第六卷德州扑克词汇表](book/part-10/06-volume-6-glossary.md)
+* [第十卷 第七章：第七卷德州扑克词汇表](book/part-10/07-volume-7-glossary.md)
+* [第十卷 第八章：第八卷德州扑克词汇表](book/part-10/08-volume-8-glossary.md)
+* [第十卷 第九章：第九卷德州扑克词汇表](book/part-10/09-volume-9-glossary.md)
+* [第十卷 第十章：牌道世界观词汇表](book/part-10/10-worldbuilding-glossary.md)
+* [第十卷 第十一章：道途成就](book/part-10/11-achievements.md)
 
 ## 附录
 
