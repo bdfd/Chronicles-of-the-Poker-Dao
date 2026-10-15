@@ -27,30 +27,30 @@
   * [第一节：一念定局——Key Decision（关键决定）](book/part-2/03-emotional-management/01-key-decision.md)
   * [第二节：心随局转——Emotional Adjustment（心态调整）](book/part-2/03-emotional-management/02-emotional-adjustment.md)
 
-## 第三卷：戒律道仪
+## 第三卷：观人识局
 
 * [卷首](book/part-3/README.md)
-* [第三卷 第一章：戒律道仪](book/part-3/01-discipline-and-etiquette.md)
+* [第三卷 第一章：观人识局](book/part-3/01-reading-the-table.md)
 
-## 第四卷：牌局历练
+## 第四卷：戒律道仪
 
 * [卷首](book/part-4/README.md)
-* [第四卷 第一章：牌局历练](book/part-4/01-table-trials.md)
+* [第四卷 第一章：戒律道仪](book/part-4/01-discipline-and-etiquette.md)
 
-## 第五卷：术法精进
+## 第五卷：牌局历练
 
 * [卷首](book/part-5/README.md)
-* [第五卷 第一章：术法精进](book/part-5/01-technique-mastery.md)
+* [第五卷 第一章：牌局历练](book/part-5/01-table-trials.md)
 
-## 第六卷：心魔试炼
+## 第六卷：术法精进
 
 * [卷首](book/part-6/README.md)
-* [第六卷 第一章：心魔试炼](book/part-6/01-inner-demon-trials.md)
+* [第六卷 第一章：术法精进](book/part-6/01-technique-mastery.md)
 
-## 第七卷：观人识局
+## 第七卷：心魔试炼
 
 * [卷首](book/part-7/README.md)
-* [第七卷 第一章：观人识局](book/part-7/01-reading-the-table.md)
+* [第七卷 第一章：心魔试炼](book/part-7/01-inner-demon-trials.md)
 
 ## 第八卷：复盘悟道
 
