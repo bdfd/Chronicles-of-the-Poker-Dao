@@ -23,6 +23,9 @@
   * [第四部分：万手筑基——Volume（有效手数）](book/part-2/02-six-dimension/04-volume.md)
   * [第五部分：量境而行——Stake（牌局级别）](book/part-2/02-six-dimension/05-stake.md)
   * [第六部分：涓流蚀石——Rake（抽水）](book/part-2/02-six-dimension/06-rake.md)
+* [第二卷 第三章：心湖守一——Emotional Management（情绪管理）](book/part-2/03-emotional-management/README.md)
+  * [第一节：一念定局——Key Decision（关键决定）](book/part-2/03-emotional-management/01-key-decision.md)
+  * [第二节：心随局转——Emotional Adjustment（心态调整）](book/part-2/03-emotional-management/02-emotional-adjustment.md)
 
 ## 第三卷：戒律道仪
 
