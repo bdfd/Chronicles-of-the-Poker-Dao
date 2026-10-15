@@ -16,6 +16,13 @@
 
 * [卷首](book/part-2/README.md)
 * [第二卷 第一章：灵石守护](book/part-2/01-spirit-stone-guard.md)
+* [第二卷 第二章：六维照心](book/part-2/02-six-dimension/README.md)
+  * [第一部分：术藏于身——Skill（牌技）](book/part-2/02-six-dimension/01-skill.md)
+  * [第二部分：因局借势——Edge（相对优势）](book/part-2/02-six-dimension/02-edge.md)
+  * [第三部分：知而能行——Efficiency（实战转化效率）](book/part-2/02-six-dimension/03-efficiency.md)
+  * [第四部分：万手筑基——Volume（有效手数）](book/part-2/02-six-dimension/04-volume.md)
+  * [第五部分：量境而行——Stake（牌局级别）](book/part-2/02-six-dimension/05-stake.md)
+  * [第六部分：涓流蚀石——Rake（抽水）](book/part-2/02-six-dimension/06-rake.md)
 
 ## 第三卷：戒律道仪
 
