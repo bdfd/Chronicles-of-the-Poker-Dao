@@ -1,0 +1,14 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+
+site:
+  title: 牌途问道录
+  structure:
+    - type: space
+      key: space-poker-dao
+      title: 牌途问道录
+      path: pai-tu-wen-dao-lu
+      default: true
+      content:
+        directory: .
+        language: zh
