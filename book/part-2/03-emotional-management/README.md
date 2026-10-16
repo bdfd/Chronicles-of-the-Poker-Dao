@@ -6,10 +6,10 @@
 
 真正的 Emotional Management（情绪管理），不是要求自己面对输赢毫无感觉，而是在情绪升起之后，仍能分辨什么是判断，什么只是冲动。
 
-本章分为两节：第一节讨论关键时刻如何作出正确决定；第二节讨论遭遇波动之后，如何调整心态与游戏节奏。
+本章分为两篇：第一篇讨论关键时刻如何作出正确决定；第二篇讨论遭遇波动之后，如何调整心态与游戏节奏。
 
 ## 本章索引
 
-1. [第一节：一念定局——Key Decision（关键决定）](01-key-decision.md)
-2. [第二节：心随局转——Emotional Adjustment（心态调整）](02-emotional-adjustment.md)
+1. [第一篇：一念定局——Key Decision（关键决定）](01-key-decision.md)
+2. [第二篇：心随局转——Emotional Adjustment（心态调整）](02-emotional-adjustment.md)
 

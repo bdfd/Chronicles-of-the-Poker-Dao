@@ -1,4 +1,4 @@
-# 第二卷 第三章 第二节：心随局转——Emotional Adjustment（心态调整）
+# 第二卷 第三章 第二篇：心随局转——Emotional Adjustment（心态调整）
 
 当足够多的手牌被发出，Bad Beat（坏运逆转）便不再是罕见异象，而是 Variance（方差）的正常组成。
 
@@ -199,7 +199,7 @@ Adjustment（策略调整）必须落到具体 Range（范围）与具体行动�
 
 而是风浪来时，我仍看得见方向。
 
-## 本节三省
+## 本篇三省
 
 1. 遭遇 Bad Beat（坏运逆转）或大额亏损后，我是否擅自改变了 VPIP（主动入池率）、Stake（牌局级别）、Buy-in（买入）、Stop-Loss（止损线）或 Daily Buy-in Cap（每日买入上限）？
 2. 我对 Range（范围）、Table Image（牌桌形象）与游戏节奏作出的 Adjustment（策略调整），来自可以验证的 Table Dynamic（牌桌动态），还是来自无聊、焦虑与报复冲动？

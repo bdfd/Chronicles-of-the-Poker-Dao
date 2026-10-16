@@ -1,4 +1,4 @@
-# 第二卷 第二章 第五部分：量境而行——Stake（牌局级别）
+# 第二卷 第二章 第五篇：量境而行——Stake（牌局级别）
 
 初入牌道时，我曾将 Stake（牌局级别）视作境界。
 
@@ -84,7 +84,7 @@ Cash Game（现金局）通常以 Small Blind／Big Blind（小盲／大盲）�
 
 牌局名称告诉我的只是入口，真正决定风险的，是有效筹码。
 
-## 本部分三省
+## 本篇三省
 
 1. 我计划 Move Up（升级），是因为 Bankroll、Sample Size 与 Win Rate 共同支持，还是因为刚刚经历了一段 Upswing（上风期）？
 2. 面对更大的绝对金额时，我是否仍能执行正常的 Value Bet、Bluff Catch 与 Fold（弃牌）？

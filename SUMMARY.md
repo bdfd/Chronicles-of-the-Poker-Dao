@@ -17,21 +17,25 @@
 * [卷首](book/part-2/README.md)
 * [第二卷 第一章：灵石守护](book/part-2/01-spirit-stone-guard.md)
 * [第二卷 第二章：六维照心](book/part-2/02-six-dimension/README.md)
-  * [第一部分：术藏于身——Skill（牌技）](book/part-2/02-six-dimension/01-skill.md)
-  * [第二部分：因局借势——Edge（相对优势）](book/part-2/02-six-dimension/02-edge.md)
-  * [第三部分：知而能行——Efficiency（实战转化效率）](book/part-2/02-six-dimension/03-efficiency.md)
-  * [第四部分：万手筑基——Volume（有效手数）](book/part-2/02-six-dimension/04-volume.md)
-  * [第五部分：量境而行——Stake（牌局级别）](book/part-2/02-six-dimension/05-stake.md)
-  * [第六部分：涓流蚀石——Rake（抽水）](book/part-2/02-six-dimension/06-rake.md)
+  * [第一篇：术藏于身——Skill（牌技）](book/part-2/02-six-dimension/01-skill.md)
+  * [第二篇：因局借势——Edge（相对优势）](book/part-2/02-six-dimension/02-edge.md)
+  * [第三篇：知而能行——Efficiency（实战转化效率）](book/part-2/02-six-dimension/03-efficiency.md)
+  * [第四篇：万手筑基——Volume（有效手数）](book/part-2/02-six-dimension/04-volume.md)
+  * [第五篇：量境而行——Stake（牌局级别）](book/part-2/02-six-dimension/05-stake.md)
+  * [第六篇：涓流蚀石——Rake（抽水）](book/part-2/02-six-dimension/06-rake.md)
 * [第二卷 第三章：心湖守一——Emotional Management（情绪管理）](book/part-2/03-emotional-management/README.md)
-  * [第一节：一念定局——Key Decision（关键决定）](book/part-2/03-emotional-management/01-key-decision.md)
-  * [第二节：心随局转——Emotional Adjustment（心态调整）](book/part-2/03-emotional-management/02-emotional-adjustment.md)
+  * [第一篇：一念定局——Key Decision（关键决定）](book/part-2/03-emotional-management/01-key-decision.md)
+  * [第二篇：心随局转——Emotional Adjustment（心态调整）](book/part-2/03-emotional-management/02-emotional-adjustment.md)
 
 ## 第三卷：观人识局
 
 * [卷首](book/part-3/README.md)
 * [第三卷 第一章：观人识局](book/part-3/01-reading-the-table.md)
-* [第三卷 第二章：牌桌众生谱：十六门数字画像-Player Type（玩家类型）](book/part-3/02-player-type.md)
+* [第三卷 第二章：牌桌众生谱：十六门数字画像——Player Type（玩家类型）](book/part-3/02-player-type.md)
+  * [第一篇：入局四门——未见翻牌，先辨来路](book/part-3/02-player-type/01-entry-types.md)
+  * [第二篇：应压四门——筹码压境，各显本性](book/part-3/02-player-type/02-pressure-response-types.md)
+  * [第三篇：行牌四门——四街留痕，招式有迹](book/part-3/02-player-type/03-betting-line-types.md)
+  * [第四篇：局势四门——筹码有深浅，人心随局变](book/part-3/02-player-type/04-table-situation-types.md)
 
 ## 第四卷：戒律道仪
 

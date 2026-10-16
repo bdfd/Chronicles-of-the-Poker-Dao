@@ -16,10 +16,10 @@ Rake 是试炼场持续收取的代价。不同 Online Cash Game（线上现金�
 
 ## 六维索引
 
-1. [第一部分：术藏于身——Skill（牌技）](01-skill.md)
-2. [第二部分：因局借势——Edge（相对优势）](02-edge.md)
-3. [第三部分：知而能行——Efficiency（实战转化效率）](03-efficiency.md)
-4. [第四部分：万手筑基——Volume（有效手数）](04-volume.md)
-5. [第五部分：量境而行——Stake（牌局级别）](05-stake.md)
-6. [第六部分：涓流蚀石——Rake（抽水）](06-rake.md)
+1. [第一篇：术藏于身——Skill（牌技）](01-skill.md)
+2. [第二篇：因局借势——Edge（相对优势）](02-edge.md)
+3. [第三篇：知而能行——Efficiency（实战转化效率）](03-efficiency.md)
+4. [第四篇：万手筑基——Volume（有效手数）](04-volume.md)
+5. [第五篇：量境而行——Stake（牌局级别）](05-stake.md)
+6. [第六篇：涓流蚀石——Rake（抽水）](06-rake.md)
 
