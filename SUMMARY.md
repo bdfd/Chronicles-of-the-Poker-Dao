@@ -31,6 +31,7 @@
 
 * [卷首](book/part-3/README.md)
 * [第三卷 第一章：观人识局](book/part-3/01-reading-the-table.md)
+* [第三卷 第二章：牌桌众生谱：十六门数字画像-Player Type（玩家类型）](book/part-3/02-player-type.md)
 
 ## 第四卷：戒律道仪
 
