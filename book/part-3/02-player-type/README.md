@@ -38,10 +38,10 @@
 
 十六门依观察角度分为四类，每类另设一篇详解：
 
-1. [第一篇：入局四门——未见翻牌，先辨来路](02-player-type/01-entry-types.md)
-2. [第二篇：应压四门——筹码压境，各显本性](02-player-type/02-pressure-response-types.md)
-3. [第三篇：行牌四门——四街留痕，招式有迹](02-player-type/03-betting-line-types.md)
-4. [第四篇：局势四门——筹码有深浅，人心随局变](02-player-type/04-table-situation-types.md)
+1. [第一篇：入局四门——未见翻牌，先辨来路](01-entry-types.md)
+2. [第二篇：应压四门——筹码压境，各显本性](02-pressure-response-types.md)
+3. [第三篇：行牌四门——四街留痕，招式有迹](03-betting-line-types.md)
+4. [第四篇：局势四门——筹码有深浅，人心随局变](04-table-situation-types.md)
 
 ## 主画像与副画像
 

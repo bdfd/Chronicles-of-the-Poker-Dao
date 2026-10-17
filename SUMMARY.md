@@ -31,7 +31,7 @@
 
 * [卷首](book/part-3/README.md)
 * [第三卷 第一章：观人识局](book/part-3/01-reading-the-table.md)
-* [第三卷 第二章：牌桌众生谱：十六门数字画像——Player Type（玩家类型）](book/part-3/02-player-type.md)
+* [第三卷 第二章：牌桌众生谱：十六门数字画像——Player Type（玩家类型）](book/part-3/02-player-type/README.md)
   * [第一篇：入局四门——未见翻牌，先辨来路](book/part-3/02-player-type/01-entry-types.md)
   * [第二篇：应压四门——筹码压境，各显本性](book/part-3/02-player-type/02-pressure-response-types.md)
   * [第三篇：行牌四门——四街留痕，招式有迹](book/part-3/02-player-type/03-betting-line-types.md)
