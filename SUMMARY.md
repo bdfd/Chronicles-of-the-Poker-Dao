@@ -14,6 +14,13 @@
 * [第一卷 第二章：德扑的规矩](book/part-1/02-poker-rules/README.md)
   * [第一篇：入座立界——House Rules（牌室规则）与 Table Stakes（桌面筹码规则）](book/part-1/02-poker-rules/01-house-rules-and-table-stakes.md)
   * [第二篇：庄盲定位——BTN（庄位）、Blinds（盲注）与 Position（位置）](book/part-1/02-poker-rules/02-button-blinds-and-position.md)
+  * [第四篇：四街行法——Street（下注轮次）与 Action（行动）](book/part-1/02-poker-rules/04-streets-and-actions.md)
+  * [第五篇：注有法度——Betting Structure（下注结构）与 Minimum Raise（最低加注）](book/part-1/02-poker-rules/05-betting-and-raising.md)
+  * [第六篇：一言定注——Verbal Declaration（口头声明）与 Chip Action（筹码动作）](book/part-1/02-poker-rules/06-verbal-and-chip-actions.md)
+  * [第七篇：孤注分池——All-in（全下）、Main Pot（主池）与 Side Pot（边池）](book/part-1/02-poker-rules/07-all-in-and-side-pots.md)
+  * [第八篇：护牌定胜——Showdown（摊牌）、Muck（弃牌／弃牌堆）与 Cards Speak（牌面为准）](book/part-1/02-poker-rules/08-showdown-and-hand-protection.md)
+  * [第九篇：乱局有裁——Misdeal（错发重发）、Action Out of Turn（越位行动）与 Floor Ruling（牌室主管裁定）](book/part-1/02-poker-rules/09-misdeal-and-floor.md)
+  * [第十篇：同桌守正——Game Integrity（牌局公正）与 Table Etiquette（牌桌礼仪）](book/part-1/02-poker-rules/10-game-integrity-and-etiquette.md)
 
 ## 第二卷：灵石守护
 
