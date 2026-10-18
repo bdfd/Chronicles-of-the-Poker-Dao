@@ -40,7 +40,7 @@ Dealer（发牌员）负责维持 Action（行动）次序、计算 Pot（底池
 
 ### Dealer Button（庄家按钮）、Position（位置）与 Blinds（盲注）
 
-桌面上的 Dealer Button（庄家按钮）用于标记名义庄位，每手牌结束后依次移动。Button 左侧两名玩家通常分别缴纳 Small Blind（小盲注）与 Big Blind（大盲注），以强制投入推动牌局开始。
+桌面上的 Dealer Button（庄家按钮）用于标记名义庄位，每手牌结束后依次移动。Button 左侧两名玩家通常分别缴纳 Small Blind（小盲注）与 Big Blind（大盲），以强制投入推动牌局开始。
 
 距离 Button 越近、行动次序越靠后，通常能在决定前看到更多对手的选择，因此 Position（位置）本身就是一种信息优势。
 
@@ -109,6 +109,6 @@ Hand Ranking 由强至弱依次为：
 - [世界扑克系列赛官方历史](https://www.wsop.com/about/world-series-of-poker/)
 - [WSOP 关于 Chris Moneymaker 与现代扑克热潮的回顾](https://www.wsop.com/news/10-chris-moneymaker/)
 
-> 本章德州扑克词汇：[第十卷第一章：序章与第一卷德州扑克词汇表](../part-10/01-volume-1-glossary.md)
+> 本章德州扑克词汇：[第十卷：序章德州扑克词汇表](../part-10/00-02-prologue-glossary.md)
 >
 > 本章牌道世界观词汇：[牌修、灵石、心魔与牌道](../part-10/10-worldbuilding-glossary.md)

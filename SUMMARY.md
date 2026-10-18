@@ -70,7 +70,9 @@
 ## 第十卷：牌道百科
 
 * [卷首：术语索引](book/part-10/README.md)
-* [第十卷 第一章：序章与第一卷德州扑克词汇表](book/part-10/01-volume-1-glossary.md)
+* [序言德州扑克词汇表](book/part-10/00-01-preface-glossary.md)
+* [序章德州扑克词汇表](book/part-10/00-02-prologue-glossary.md)
+* [第十卷 第一章：第一卷德州扑克词汇表](book/part-10/01-volume-1-glossary.md)
 * [第十卷 第二章：第二卷德州扑克词汇表](book/part-10/02-volume-2-glossary.md)
 * [第十卷 第三章：第三卷德州扑克词汇表](book/part-10/03-volume-3-glossary.md)
 * [第十卷 第四章：第四卷德州扑克词汇表](book/part-10/04-volume-4-glossary.md)

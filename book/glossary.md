@@ -2,7 +2,9 @@
 
 原“牌道术语”附录现已扩展为正式章节，并收录于[第十卷：牌道百科](part-10/README.md)。
 
-- [序章与第一卷德州扑克词汇表](part-10/01-volume-1-glossary.md)
+- [序言德州扑克词汇表](part-10/00-01-preface-glossary.md)
+- [序章德州扑克词汇表](part-10/00-02-prologue-glossary.md)
+- [第一卷德州扑克词汇表](part-10/01-volume-1-glossary.md)
 - [第二卷德州扑克词汇表](part-10/02-volume-2-glossary.md)
 - [第三卷德州扑克词汇表](part-10/03-volume-3-glossary.md)
 - [第四卷德州扑克词汇表](part-10/04-volume-4-glossary.md)
