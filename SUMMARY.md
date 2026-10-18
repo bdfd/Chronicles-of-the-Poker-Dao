@@ -12,6 +12,8 @@
 * [卷首](book/part-1/README.md)
 * [第一卷 第一章：初入山门](book/part-1/01-entering-the-sect.md)
 * [第一卷 第二章：德扑的规矩](book/part-1/02-poker-rules/README.md)
+  * [第一篇：入座立界——House Rules（牌室规则）与 Table Stakes（桌面筹码规则）](book/part-1/02-poker-rules/01-house-rules-and-table-stakes.md)
+  * [第二篇：庄盲定位——BTN（庄位）、Blinds（盲注）与 Position（位置）](book/part-1/02-poker-rules/02-button-blinds-and-position.md)
 
 ## 第二卷：灵石守护
 
