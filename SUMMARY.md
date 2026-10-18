@@ -11,6 +11,7 @@
 
 * [卷首](book/part-1/README.md)
 * [第一卷 第一章：初入山门](book/part-1/01-entering-the-sect.md)
+* [第一卷 第二章：德扑的规矩](book/part-1/02-poker-rules/README.md)
 
 ## 第二卷：灵石守护
 
