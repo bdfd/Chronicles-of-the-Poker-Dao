@@ -10,7 +10,13 @@
 ## 第一卷：初入山门
 
 * [卷首](book/part-1/README.md)
-* [第一卷 第一章：初入山门始知敬畏](book/part-1/01-entering-the-sect.md)
+* [第一卷 第一章：初入山门 始知敬畏](book/part-1/01-entering-the-sect/README.md)
+  * [第一篇：初见牌毡 先量灵石——Buy-in（买入）](book/part-1/01-entering-the-sect/01-first-table-and-buy-in.md)
+  * [第二篇：筹声纷起 莫失次序——Action（行动）](book/part-1/01-entering-the-sect/02-action-order.md)
+  * [第三篇：底牌入手 先护其机——Hole Cards（底牌）](book/part-1/01-entering-the-sect/03-hole-cards.md)
+  * [第四篇：问规不怯 宁缓一息](book/part-1/01-entering-the-sect/04-ask-before-acting.md)
+  * [第五篇：一池偶得 照见错念——Variance（方差）](book/part-1/01-entering-the-sect/05-win-and-variance.md)
+  * [第六篇：归山回望 敬畏始生](book/part-1/01-entering-the-sect/06-return-with-questions.md)
 * [第一卷 第二章：德扑的规矩](book/part-1/02-poker-rules/README.md)
   * [第一篇：入座立界——House Rules（牌室规则）与 Table Stakes（桌面筹码规则）](book/part-1/02-poker-rules/01-house-rules-and-table-stakes.md)
   * [第二篇：庄盲定位——BTN（庄位）、Blinds（盲注）与 Position（位置）](book/part-1/02-poker-rules/02-button-blinds-and-position.md)
