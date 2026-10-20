@@ -1,4 +1,4 @@
-# 第一卷 第二章 第九篇：乱局有裁——Misdeal（错发重发）、Action Out of Turn（越位行动）与 Floor Ruling（牌室主管裁定）
+# 第一卷 第二章 第十篇：乱局有裁 据实求断——Floor Ruling（牌室主管裁定）
 
 牌阵偶有错位。
 
