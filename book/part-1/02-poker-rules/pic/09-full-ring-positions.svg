@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720" role="img" aria-labelledby="title desc">
+  <title id="title">九人 Full Ring（满员桌）位置与翻牌前行动顺序</title>
+  <desc id="desc">九个座位环绕牌桌，翻牌前依次由枪口位、枪口后一位、中位、劫持位前一位、劫持位、关煞位、庄位、小盲位和大盲位行动。</desc>
+  <defs>
+    <linearGradient id="felt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#245a45"/>
+      <stop offset="1" stop-color="#173d31"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#0a1d17" flood-opacity="0.28"/>
+    </filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#a98645"/>
+    </marker>
+    <style>
+      .bg { fill: #f6f1e7; }
+      .table-rim { fill: #684a2c; }
+      .table-felt { fill: url(#felt); stroke: #d6b66f; stroke-width: 4; }
+      .turn-path { fill: none; stroke: #a98645; stroke-width: 3; stroke-dasharray: 9 9; marker-end: url(#arrow); }
+      .seat { fill: #fffdf8; stroke: #b6a98d; stroke-width: 2; }
+      .seat-button { fill: #e5d4a7; stroke: #94712e; stroke-width: 3; }
+      .seat-blind { fill: #d9e6de; stroke: #477460; stroke-width: 3; }
+      .badge { fill: #302a22; }
+      .badge-text { fill: #fffdf8; font: 600 18px "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; text-anchor: middle; dominant-baseline: central; }
+      .code { fill: #28241e; font: 600 20px "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; text-anchor: middle; }
+      .name { fill: #575044; font: 400 17px "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; text-anchor: middle; }
+      .center-main { fill: #fff8e9; font: 600 27px "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; text-anchor: middle; }
+      .center-sub { fill: #ead9ae; font: 400 20px "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; text-anchor: middle; }
+      .caption { fill: #413a31; font: 400 18px "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; text-anchor: middle; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1080" height="720" rx="24"/>
+
+  <ellipse class="turn-path" cx="540" cy="349" rx="397" ry="249" transform="rotate(-8 540 349)"/>
+
+  <ellipse class="table-rim" cx="540" cy="354" rx="310" ry="181" filter="url(#shadow)"/>
+  <ellipse class="table-felt" cx="540" cy="344" rx="286" ry="157"/>
+  <text class="center-main" x="540" y="326">九人 Full Ring（满员桌）</text>
+  <text class="center-sub" x="540" y="361">Preflop（翻牌前）</text>
+  <text class="center-sub" x="540" y="393">① 至 ⑨ 顺时针行动</text>
+
+  <g transform="translate(180 210)">
+    <rect class="seat" x="-74" y="-38" width="148" height="76" rx="15"/>
+    <circle class="badge" cx="-68" cy="-34" r="19"/>
+    <text class="badge-text" x="-68" y="-34">1</text>
+    <text class="code" x="8" y="-5">UTG</text>
+    <text class="name" x="8" y="23">（枪口位）</text>
+  </g>
+
+  <g transform="translate(350 91)">
+    <rect class="seat" x="-82" y="-38" width="164" height="76" rx="15"/>
+    <circle class="badge" cx="-76" cy="-34" r="19"/>
+    <text class="badge-text" x="-76" y="-34">2</text>
+    <text class="code" x="8" y="-5">UTG+1</text>
+    <text class="name" x="8" y="23">（枪口后一位）</text>
+  </g>
+
+  <g transform="translate(540 65)">
+    <rect class="seat" x="-74" y="-38" width="148" height="76" rx="15"/>
+    <circle class="badge" cx="-68" cy="-34" r="19"/>
+    <text class="badge-text" x="-68" y="-34">3</text>
+    <text class="code" x="8" y="-5">MP</text>
+    <text class="name" x="8" y="23">（中位）</text>
+  </g>
+
+  <g transform="translate(730 91)">
+    <rect class="seat" x="-82" y="-38" width="164" height="76" rx="15"/>
+    <circle class="badge" cx="-76" cy="-34" r="19"/>
+    <text class="badge-text" x="-76" y="-34">4</text>
+    <text class="code" x="8" y="-5">LJ</text>
+    <text class="name" x="8" y="23">（劫持位前一位）</text>
+  </g>
+
+  <g transform="translate(900 210)">
+    <rect class="seat" x="-74" y="-38" width="148" height="76" rx="15"/>
+    <circle class="badge" cx="-68" cy="-34" r="19"/>
+    <text class="badge-text" x="-68" y="-34">5</text>
+    <text class="code" x="8" y="-5">HJ</text>
+    <text class="name" x="8" y="23">（劫持位）</text>
+  </g>
+
+  <g transform="translate(955 397)">
+    <rect class="seat" x="-74" y="-38" width="148" height="76" rx="15"/>
+    <circle class="badge" cx="-68" cy="-34" r="19"/>
+    <text class="badge-text" x="-68" y="-34">6</text>
+    <text class="code" x="8" y="-5">CO</text>
+    <text class="name" x="8" y="23">（关煞位）</text>
+  </g>
+
+  <g transform="translate(760 583)">
+    <rect class="seat-button" x="-74" y="-38" width="148" height="76" rx="15"/>
+    <circle class="badge" cx="-68" cy="-34" r="19"/>
+    <text class="badge-text" x="-68" y="-34">7</text>
+    <text class="code" x="8" y="-5">BTN</text>
+    <text class="name" x="8" y="23">（庄位）</text>
+  </g>
+
+  <g transform="translate(540 641)">
+    <rect class="seat-blind" x="-74" y="-38" width="148" height="76" rx="15"/>
+    <circle class="badge" cx="-68" cy="-34" r="19"/>
+    <text class="badge-text" x="-68" y="-34">8</text>
+    <text class="code" x="8" y="-5">SB</text>
+    <text class="name" x="8" y="23">（小盲位）</text>
+  </g>
+
+  <g transform="translate(288 583)">
+    <rect class="seat-blind" x="-74" y="-38" width="148" height="76" rx="15"/>
+    <circle class="badge" cx="-68" cy="-34" r="19"/>
+    <text class="badge-text" x="-68" y="-34">9</text>
+    <text class="code" x="8" y="-5">BB</text>
+    <text class="name" x="8" y="23">（大盲位）</text>
+  </g>
+
+  <text class="caption" x="540" y="698">Flop（翻牌）发出后，由 BTN（庄位）左侧第一名仍在局者开始行动。</text>
+</svg>
