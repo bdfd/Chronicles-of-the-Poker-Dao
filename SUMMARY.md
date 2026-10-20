@@ -21,6 +21,7 @@
   * [第一篇：通则为纲 入局有序](book/part-1/02-poker-rules/01-general-rules.md)
   * [第二篇：入座立界 灵石有凭——House Rules（牌室规则）](book/part-1/02-poker-rules/02-house-rules-and-table-stakes.md)
   * [第三篇：庄盲定位 轮转有序——Position（位置）](book/part-1/02-poker-rules/03-button-blinds-and-position.md)
+  * [第四篇：成牌之法 择五定胜——Best Five-Card Hand（最佳五张成牌）](book/part-1/02-poker-rules/04-best-five-card-hand.md)
   * [第五篇：四街行法 先后分明——Street（下注轮次）](book/part-1/02-poker-rules/05-streets-and-actions.md)
   * [第六篇：注有法度 增量须明——Minimum Raise（最低加注）](book/part-1/02-poker-rules/06-betting-and-raising.md)
   * [第七篇：一言定注 言筹须明——Verbal Declaration（口头声明）](book/part-1/02-poker-rules/07-verbal-and-chip-actions.md)

@@ -29,7 +29,7 @@ BTN（庄位）逐手轮转，Blinds（盲注）依位落下，筹码随言语�
 3. [第三篇：庄盲定位 轮转有序——Position（位置）](03-button-blinds-and-position.md)
    辨明庄位、盲注与各轮行动次序。
 
-4. 第四篇：成牌之法 择五定胜——Best Five-Card Hand（最佳五张成牌）（尚待编撰）
+4. [第四篇：成牌之法 择五定胜——Best Five-Card Hand（最佳五张成牌）](04-best-five-card-hand.md)
    确定最佳五张成牌，比较牌型与点数。
 
 5. [第五篇：四街行法 先后分明——Street（下注轮次）](05-streets-and-actions.md)

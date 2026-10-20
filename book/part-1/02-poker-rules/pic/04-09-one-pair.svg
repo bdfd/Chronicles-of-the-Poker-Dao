@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="168" viewBox="0 0 560 168" role="img" aria-labelledby="title desc">
+  <title id="title">One Pair（一对）</title>
+  <desc id="desc">五张扑克牌组成的One Pair（一对）示例</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#3a3126" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="560" height="168" rx="14" fill="#f5f0e6"/>
+  
+    <g transform="translate(42 18)">
+      <rect x="0" y="0" width="82" height="116" rx="8" fill="#fff" stroke="#c7bca7" stroke-width="1.5" filter="url(#shadow)"/>
+      <text x="11" y="28" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700" fill="#172033">K</text>
+      <text x="11" y="50" font-family="'Segoe UI Symbol', 'Noto Sans Symbols', serif" font-size="21" fill="#172033">♠</text>
+      <text x="41" y="84" text-anchor="middle" font-family="'Segoe UI Symbol', 'Noto Sans Symbols', serif" font-size="43" fill="#172033">♠</text>
+    </g>
+    <g transform="translate(146 18)">
+      <rect x="0" y="0" width="82" height="116" rx="8" fill="#fff" stroke="#c7bca7" stroke-width="1.5" filter="url(#shadow)"/>
+      <text x="11" y="28" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700" fill="#b42318">K</text>
+      <text x="11" y="50" font-family="'Segoe UI Symbol', 'Noto Sans Symbols', serif" font-size="21" fill="#b42318">♦</text>
+      <text x="41" y="84" text-anchor="middle" font-family="'Segoe UI Symbol', 'Noto Sans Symbols', serif" font-size="43" fill="#b42318">♦</text>
+    </g>
+    <g transform="translate(250 18)">
+      <rect x="0" y="0" width="82" height="116" rx="8" fill="#fff" stroke="#c7bca7" stroke-width="1.5" filter="url(#shadow)"/>
+      <text x="11" y="28" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700" fill="#172033">10</text>
+      <text x="11" y="50" font-family="'Segoe UI Symbol', 'Noto Sans Symbols', serif" font-size="21" fill="#172033">♣</text>
+      <text x="41" y="84" text-anchor="middle" font-family="'Segoe UI Symbol', 'Noto Sans Symbols', serif" font-size="43" fill="#172033">♣</text>
+    </g>
+    <g transform="translate(354 18)">
+      <rect x="0" y="0" width="82" height="116" rx="8" fill="#fff" stroke="#c7bca7" stroke-width="1.5" filter="url(#shadow)"/>
+      <text x="11" y="28" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700" fill="#b42318">6</text>
+      <text x="11" y="50" font-family="'Segoe UI Symbol', 'Noto Sans Symbols', serif" font-size="21" fill="#b42318">♥</text>
+      <text x="41" y="84" text-anchor="middle" font-family="'Segoe UI Symbol', 'Noto Sans Symbols', serif" font-size="43" fill="#b42318">♥</text>
+    </g>
+    <g transform="translate(458 18)">
+      <rect x="0" y="0" width="82" height="116" rx="8" fill="#fff" stroke="#c7bca7" stroke-width="1.5" filter="url(#shadow)"/>
+      <text x="11" y="28" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700" fill="#b42318">3</text>
+      <text x="11" y="50" font-family="'Segoe UI Symbol', 'Noto Sans Symbols', serif" font-size="21" fill="#b42318">♦</text>
+      <text x="41" y="84" text-anchor="middle" font-family="'Segoe UI Symbol', 'Noto Sans Symbols', serif" font-size="43" fill="#b42318">♦</text>
+    </g>
+  <text x="280" y="154" text-anchor="middle" font-family="'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif" font-size="14" fill="#5b4b38">One Pair（一对）</text>
+</svg>
