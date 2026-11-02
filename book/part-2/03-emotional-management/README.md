@@ -1,4 +1,4 @@
-# 第二卷 第三章：心湖守一——Emotional Management（情绪管理）
+# 第二卷 第三章：心湖守一 临局不乱
 
 牌桌上的心魔，并不总在输掉筹码时现身。
 
@@ -10,6 +10,6 @@
 
 ## 本章索引
 
-1. [第一篇：一念定局——Key Decision（关键决定）](01-key-decision.md)
-2. [第二篇：心随局转——Emotional Adjustment（心态调整）](02-emotional-adjustment.md)
+1. [第一篇：一念定局 先察凭据](01-key-decision.md)
+2. [第二篇：心随局转 不失其衡——Mental Game（心理竞技）](02-emotional-adjustment.md)
 

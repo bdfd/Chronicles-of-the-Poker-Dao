@@ -1,4 +1,4 @@
-# 第二卷 第三章 第二篇：心随局转——Emotional Adjustment（心态调整）
+# 第二卷 第三章 第二篇：心随局转 不失其衡——Mental Game（心理竞技）
 
 当足够多的手牌被发出，Bad Beat（坏运逆转）便不再是罕见异象，而是 Variance（方差）的正常组成。
 
@@ -205,5 +205,5 @@ Adjustment（策略调整）必须落到具体 Range（范围）与具体行动�
 2. 我对 Range（范围）、Table Image（牌桌形象）与游戏节奏作出的 Adjustment（策略调整），来自可以验证的 Table Dynamic（牌桌动态），还是来自无聊、焦虑与报复冲动？
 3. 我目前处于 S-Game（最佳竞技状态）、A-Game（普通竞技状态）、B-Game（失常竞技状态）还是 C-Game（必须即刻离场的状态）；若已经达到 Daily Buy-in Cap（每日买入上限）或进入 C-Game（必须即刻离场的状态），是否立即结束了 Session（牌局场次）？
 
-> 返回总览：[第二卷 第三章：心湖守一](README.md)
+> 返回总览：[第二卷 第三章：心湖守一 临局不乱](README.md)
 
