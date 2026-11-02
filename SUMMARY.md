@@ -27,8 +27,9 @@
   * [第七篇：一言定注 言筹须明——Verbal Declaration（口头声明）](book/part-1/02-poker-rules/07-verbal-and-chip-actions.md)
   * [第八篇：孤注分池 各守其界——All-in（全下）](book/part-1/02-poker-rules/08-all-in-and-side-pots.md)
   * [第九篇：护牌定胜 亮牌有序——Showdown（摊牌）](book/part-1/02-poker-rules/09-showdown-and-hand-protection.md)
-  * [第十篇：乱局有裁 据实求断——Floor Ruling（牌室主管裁定）](book/part-1/02-poker-rules/10-misdeal-and-floor.md)
-  * [第十一篇：同桌守正 共护清明——Game Integrity（牌局公正）](book/part-1/02-poker-rules/11-game-integrity-and-etiquette.md)
+  * [第十篇：异局诸法 入局先明](book/part-1/02-poker-rules/10-special-games.md)
+  * [第十一篇：乱局有裁 据实求断——Floor Ruling（牌室主管裁定）](book/part-1/02-poker-rules/11-misdeal-and-floor.md)
+  * [第十二篇：同桌守正 共护清明——Game Integrity（牌局公正）](book/part-1/02-poker-rules/12-game-integrity-and-etiquette.md)
 
 ## 第二卷：灵石守护
 
