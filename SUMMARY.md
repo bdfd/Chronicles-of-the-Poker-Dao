@@ -30,6 +30,7 @@
   * [第十篇：异局诸法 入局先明](book/part-1/02-poker-rules/10-special-games.md)
   * [第十一篇：乱局有裁 据实求断——Floor Ruling（牌室主管裁定）](book/part-1/02-poker-rules/11-misdeal-and-floor.md)
   * [第十二篇：同桌守正 共护清明——Game Integrity（牌局公正）](book/part-1/02-poker-rules/12-game-integrity-and-etiquette.md)
+* [第一卷 第三章：手牌初辨 取舍有据](book/part-1/03-starting-hands/README.md)
 
 ## 第二卷：灵石守护
 
