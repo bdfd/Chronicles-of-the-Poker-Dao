@@ -31,6 +31,12 @@
   * [第十一篇：乱局有裁 据实求断——Floor Ruling（牌室主管裁定）](book/part-1/02-poker-rules/11-misdeal-and-floor.md)
   * [第十二篇：同桌守正 共护清明——Game Integrity（牌局公正）](book/part-1/02-poker-rules/12-game-integrity-and-etiquette.md)
 * [第一卷 第三章：手牌初辨 取舍有据](book/part-1/03-starting-hands/README.md)
+  * [第一篇：强弱初辨 莫执牌名](book/part-1/03-starting-hands/01-starting-hand-structure.md)
+  * [第二篇：口袋成对 各有深浅——Pocket Pair（口袋对子）](book/part-1/03-starting-hands/02-pocket-pairs.md)
+  * [第三篇：同花相连 莫许奇功——Suited Connectors（同花连张）](book/part-1/03-starting-hands/03-suited-connectors.md)
+  * [第四篇：高牌受制 须辨踢脚——Kicker（踢脚牌）](book/part-1/03-starting-hands/04-high-cards-and-kickers.md)
+  * [第五篇：入池之前 先察局势](book/part-1/03-starting-hands/05-assess-before-entering.md)
+  * [第六篇：边缘难决 先守所知](book/part-1/03-starting-hands/06-decision-checklist.md)
 
 ## 第二卷：灵石守护
 
