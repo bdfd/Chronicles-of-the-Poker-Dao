@@ -37,6 +37,7 @@
   * [第四篇：高牌受制 须辨踢脚——Kicker（踢脚牌）](book/part-1/03-starting-hands/04-high-cards-and-kickers.md)
   * [第五篇：入池之前 先察局势](book/part-1/03-starting-hands/05-assess-before-entering.md)
   * [第六篇：边缘难决 先守所知](book/part-1/03-starting-hands/06-decision-checklist.md)
+* [第一卷 第四章：位置先明 进退有度——Position（位置）](book/part-1/04-position/README.md)
 
 ## 第二卷：灵石守护
 
